@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|c:\\users\\torre\\onedrive\\documentos\\universidad\\5to semestre\\base de datos_ambientes de programacion\\nueva carpeta\\merodii_beta\\merodii_beta\\controllers\\e_categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|solutionrelative:merodii_beta\\controllers\\e_categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|c:\\users\\torre\\onedrive\\documentos\\universidad\\5to semestre\\base de datos_ambientes de programacion\\nueva carpeta\\merodii_beta\\merodii_beta\\models\\e_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|solutionrelative:merodii_beta\\models\\e_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|c:\\users\\torre\\onedrive\\documentos\\universidad\\5to semestre\\base de datos_ambientes de programacion\\nueva carpeta\\merodii_beta\\merodii_beta\\servicios\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|solutionrelative:merodii_beta\\servicios\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|c:\\users\\torre\\onedrive\\documentos\\universidad\\5to semestre\\base de datos_ambientes de programacion\\nueva carpeta\\merodii_beta\\merodii_beta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|solutionrelative:merodii_beta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|c:\\users\\torre\\onedrive\\documentos\\universidad\\5to semestre\\base de datos_ambientes de programacion\\nueva carpeta\\merodii_beta\\merodii_beta\\merodii_beta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|solutionrelative:merodii_beta\\merodii_beta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|c:\\users\\torre\\onedrive\\documentos\\universidad\\5to semestre\\base de datos_ambientes de programacion\\nueva carpeta\\merodii_beta\\merodii_beta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E01C6C4-68B9-4347-8780-905DEEAC7886}|Merodii_Beta\\Merodii_Beta.csproj|solutionrelative:merodii_beta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E_CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Controllers\\E_CategoriaController.cs",
+              "RelativeDocumentMoniker": "Merodii_Beta\\Controllers\\E_CategoriaController.cs",
+              "ToolTip": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Controllers\\E_CategoriaController.cs",
+              "RelativeToolTip": "Merodii_Beta\\Controllers\\E_CategoriaController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:08:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Models\\E_Categoria.cs",
+              "RelativeDocumentMoniker": "Merodii_Beta\\Models\\E_Categoria.cs",
+              "ToolTip": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Models\\E_Categoria.cs",
+              "RelativeToolTip": "Merodii_Beta\\Models\\E_Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:04:43.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextoBD.cs",
+              "DocumentMoniker": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Servicios\\ContextoBD.cs",
+              "RelativeDocumentMoniker": "Merodii_Beta\\Servicios\\ContextoBD.cs",
+              "ToolTip": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Servicios\\ContextoBD.cs",
+              "RelativeToolTip": "Merodii_Beta\\Servicios\\ContextoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:44:29.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Merodii_Beta",
+              "DocumentMoniker": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Merodii_Beta.csproj",
+              "RelativeDocumentMoniker": "Merodii_Beta\\Merodii_Beta.csproj",
+              "ToolTip": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Merodii_Beta.csproj",
+              "RelativeToolTip": "Merodii_Beta\\Merodii_Beta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T00:43:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Program.cs",
+              "RelativeDocumentMoniker": "Merodii_Beta\\Program.cs",
+              "ToolTip": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\Program.cs",
+              "RelativeToolTip": "Merodii_Beta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:41:32.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\appsettings.json",
+              "RelativeDocumentMoniker": "Merodii_Beta\\appsettings.json",
+              "ToolTip": "C:\\Users\\torre\\OneDrive\\Documentos\\UNIVERSIDAD\\5to Semestre\\Base De datos_Ambientes de programacion\\Nueva carpeta\\Merodii_Beta\\Merodii_Beta\\appsettings.json",
+              "RelativeToolTip": "Merodii_Beta\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T00:38:56.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
